@@ -15,7 +15,7 @@ to ask what their sequences, physicochemical profiles, BLAST conservation patter
 ---
 
 ## Research Question
-*How do HPV16 oncoproteins E6 and E7 differ at the sequence, physicochemical, and structural level  and what do those differences reveal about their respective mechanisms of oncogenesis?
+How do HPV16 oncoproteins E6 and E7 differ at the sequence, physicochemical, and structural level  and what do those differences reveal about their respective mechanisms of oncogenesis?
 
 ---
 
@@ -34,15 +34,15 @@ to ask what their sequences, physicochemical profiles, BLAST conservation patter
 
 ## Repository Structure
 
-HPV16-E6E7-Computational-Pipeline/
-├── 01_database_retrieval/          # NCBI, UniProt, and PDB data retrieval and annotation
-├── 02_blast_analysis/           # BLASTP searches, result parsing, and visualization
-├── 03_rna_analysis/             # Transcription, codon usage, RNA secondary structure
-├── 04_protein_analysis/         # Physicochemical properties, PDB parsing, motif search
-└── data/                        # All input files (sequences, structures, CSVs)
-
-
-
+HPV16-E6-E7-Comparative-Analysis/ 
+├── README.md 
+├── Data/ 
+├── Pipeline/    
+├── 01_Database_Retrieval/ 
+├── 02_BLAST_analysis/ 
+├── 03_RNA_analysis/ 
+├── 04_protein_analysis/  
+└── Output/
 
 
 ---
