@@ -34,15 +34,15 @@ How do HPV16 oncoproteins E6 and E7 differ at the sequence, physicochemical, and
 
 ## Repository Structure
 
-HPV16-E6-E7-Comparative-Analysis/ 
-├── README.md 
-├── Data/ 
-├── Pipeline/    
-├── 01_Database_Retrieval/ 
-├── 02_BLAST_analysis/ 
-├── 03_RNA_analysis/ 
-├── 04_protein_analysis/  
-└── Output/
+HPV16-E6/E7-Computational-Analysis-Pipeline
+* README.md 
+* Data
+* Pipeline    
+* 01_Database_Retrieval 
+* 02_BLAST_analysis 
+* 03_RNA_analysis
+* 04_protein_analysis  
+* Output
 
 
 ---
